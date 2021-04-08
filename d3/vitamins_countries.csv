@@ -1,0 +1,67 @@
+"","countries_en","vitamins","proportion"
+"1","Belgium","vitamin.a",0.0132952047963201
+"2","Canada","vitamin.a",0.0169845358689697
+"3","France","vitamin.a",0.00259361918094117
+"4","Germany","vitamin.a",0.000713930633862841
+"5","Italy","vitamin.a",0.00859307487738085
+"6","Portugal","vitamin.a",0.00770128709645427
+"7","Russia","vitamin.a",0.00111096298442324
+"8","Spain","vitamin.a",0.00399066485086959
+"9","Switzerland","vitamin.a",0.0045938504929012
+"10","United Kingdom","vitamin.a",0.0132103957780676
+"11","United States","vitamin.a",0.000231718067642299
+"12","Belgium","vitamin.b1",0.0159152010453273
+"13","Canada","vitamin.b1",0.378014424002238
+"14","France","vitamin.b1",0.536719728689258
+"15","Germany","vitamin.b1",0.00455691884701958
+"16","Italy","vitamin.b1",0.0235012523635686
+"17","Portugal","vitamin.b1",0.0101054268194309
+"18","Russia","vitamin.b1",0.000530656591799107
+"19","Spain","vitamin.b1",0.00110358253174971
+"20","Switzerland","vitamin.b1",0.0090982977057765
+"21","United Kingdom","vitamin.b1",0.00974044568396124
+"22","United States","vitamin.b1",0.526024666137156
+"23","Belgium","vitamin.b2",0.0168751655528232
+"24","Canada","vitamin.b2",0.0592001191897148
+"25","France","vitamin.b2",0.0124828803878522
+"26","Germany","vitamin.b2",0.00290531372543728
+"27","Italy","vitamin.b2",0.0351193526861598
+"28","Portugal","vitamin.b2",0.00851092748264177
+"29","Russia","vitamin.b2",0.000140080156220261
+"30","Spain","vitamin.b2",0.00156096844109254
+"31","Switzerland","vitamin.b2",0.0108070318582967
+"32","United Kingdom","vitamin.b2",0.279771965933878
+"33","United States","vitamin.b2",0.427152709787764
+"34","Belgium","vitamin.c",0.806828895098641
+"35","Canada","vitamin.c",0.126627978123529
+"36","France","vitamin.c",0.322882249638384
+"37","Germany","vitamin.c",0.937718635529112
+"38","Italy","vitamin.c",0.798367903259985
+"39","Portugal","vitamin.c",0.900801535641543
+"40","Russia","vitamin.c",0.964655744299725
+"41","Spain","vitamin.c",0.945000897727764
+"42","Switzerland","vitamin.c",0.818763479046737
+"43","United Kingdom","vitamin.c",0.490076633574906
+"44","United States","vitamin.c",0.0320889404048513
+"45","Belgium","vitamin.d",0.000154123856276865
+"46","Canada","vitamin.d",0.000511603075815403
+"47","France","vitamin.d",1.21262840663439e-05
+"48","Germany","vitamin.d",9.6986500601211e-05
+"49","Italy","vitamin.d",0.000125546163942222
+"50","Portugal","vitamin.d",6.14499880602868e-05
+"51","Russia","vitamin.d",1.84523769421053e-05
+"52","Spain","vitamin.d",3.36349374107399e-06
+"53","Switzerland","vitamin.d",4.84871107923749e-05
+"54","United Kingdom","vitamin.d",7.38308767747277e-05
+"55","United States","vitamin.d",4.12646900130452e-06
+"56","Belgium","vitamin.e",0.146931409650611
+"57","Canada","vitamin.e",0.418661339739733
+"58","France","vitamin.e",0.125309395819498
+"59","Germany","vitamin.e",0.054008214763967
+"60","Italy","vitamin.e",0.134292870648963
+"61","Portugal","vitamin.e",0.0728193729718703
+"62","Russia","vitamin.e",0.03354410359089
+"63","Spain","vitamin.e",0.0483405229547828
+"64","Switzerland","vitamin.e",0.156688853785496
+"65","United Kingdom","vitamin.e",0.207126728152413
+"66","United States","vitamin.e",0.0144978391335844
